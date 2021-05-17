@@ -8,7 +8,7 @@ The whole point here was to have a starter website to host my portfolio. Through
 
 ![screenshot](./assets/images/screenshotportfolio.JPG)
     
-[Link to deployed webpage](https://michaelzadra27.github.io/Portfolio/)
+[Link to deployed webpage](https://michaelzadra27.github.io/UpdatedPortfolio/)
 
 ## Credits
 Original code came from BCS for the website

@@ -175,6 +175,10 @@ footer {
     color:black;
     margin-left: 12px;
     margin-top: -40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    font-style:initial;
+    font-weight: bolder;
     
   }
 
@@ -200,3 +204,10 @@ footer {
       border:5px solid rgb(0, 0, 0);
       z-index:3;
   }
+.top {
+    font-family: 'Lobster', cursive;
+}
+
+.subtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
