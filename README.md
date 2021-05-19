@@ -6,7 +6,7 @@ The whole point here was to have a starter website to host my portfolio. Through
 
 ## Screenshot
 
-![screenshot](./assets/images/screenshotportfolio.JPG)
+![screenshot](./assets/images/updatedportfolio.JPG)
     
 [Link to deployed webpage](https://michaelzadra27.github.io/UpdatedPortfolio/)
 
